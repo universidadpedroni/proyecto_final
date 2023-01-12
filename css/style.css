@@ -1,0 +1,106 @@
+.encabezado{
+    width: 92%;
+    background-color: rgb(207, 205, 231);
+    height: auto;
+    margin: 1%;
+    border: solid black;
+    border-radius: 1%;
+    text-align: center;
+    
+        
+}
+
+
+.sector_izquierdo{
+    width: 30%;
+    float: left;
+    background-color: rgb(179, 171, 216);
+    margin: 1%;
+    border: solid black;
+    border-radius: 1%;
+    
+    
+}
+
+.sector_derecho{
+    width: 59%;
+    float: left;
+    background-color: rgb(198, 156, 192);
+    margin: 1%;
+    border: solid black;
+    border-radius: 1%;
+    text-align: center;
+    
+    
+}
+
+
+
+.marco_foto_perfil{
+    width: 100%;
+    height: auto;
+    float: center;
+    border-bottom: solid black;
+    border-bottom: 1%;
+}
+
+.foto_perfil{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 80%;
+    height: auto;
+
+
+}
+
+.sector_informacion{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 8vw;
+}
+
+h4{
+    font-size: 4vw;
+}
+
+h3{
+    font-size: 3vw;
+}
+
+p{
+    font-size: 4vw;
+}
+
+hr{
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+footer{
+    position: absolute;
+    bottom: 0%;
+    background-color: rgb(207, 205, 231);
+    width: 92%;
+    height: auto;
+    margin-top: 1%;
+    margin: 1%;
+    border: solid black;
+    border-radius: 1%;
+    text-align: center;
+
+}
+
+
+    
+
+  
+  
